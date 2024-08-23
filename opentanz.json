@@ -1,0 +1,35 @@
+{
+    "parameterSets": {
+        "42HP width Micronova": {
+            "floor_thickness": "5",
+            "hole_depth": "5",
+            "hole_num": "42",
+            "hole_x_pitch": "5.08",
+            "hole_y_pitch": "128.5",
+            "include_power_unit": "true",
+            "power_unit_height": "32",
+            "power_unit_screw_height": "22",
+            "power_unit_screw_width": "92",
+            "power_unit_width": "100",
+            "rail_height": "35",
+            "wall_thickness": "2"
+        },
+        "42HP width Pw4": {
+            "floor_thickness": "5",
+            "hole_depth": "5",
+            "hole_num": "42",
+            "hole_x_pitch": "5.08",
+            "hole_y_pitch": "128.5",
+            "include_power_unit": "true",
+            "power_unit_height": "32",
+            "power_unit_screw_height": "25",
+            "power_unit_screw_width": "106",
+            "power_unit_width": "114",
+            "rail_height": "35",
+            "wall_thickness": "2"
+        }
+    },
+    "fileFormatVersion": "1",
+    "parameterSets": "",
+    "parameterSets": ""
+}
