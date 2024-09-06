@@ -20,7 +20,7 @@ wall_thickness = 2;
 
 /* [Hidden] */
 hole_x_pitch = 5.08; 
-hole_y_pitch = 128.5;
+hole_y_pitch = 122.5;
 
 /* [Power Unit] */
 // Power Unit
